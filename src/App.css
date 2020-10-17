@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.jvectormap-custom {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  touch-action: none;
+  background-image: linear-gradient(to left, #C8EEFF, #0071A4, #09b1ff);
+  
+}
